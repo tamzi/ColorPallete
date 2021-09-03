@@ -2,7 +2,7 @@
  * Compiled by Tamzi
  *
  * You may use this in you compose android projectsThey are arraged in sets with already defined color codes.
- * taken from uiehues.com
+ * taken from uiehues.com: https://www.instagram.com/uihues/
  */
 package com.tamzi.colorpallete.ui.theme
 
@@ -34,7 +34,7 @@ val buttonRed = Color(0xFFFF7777CC)
 
 
 /*
- * Set two
+ * uiHues
  *
  */
 val amber = Color(0xFFFCC775)
@@ -44,10 +44,43 @@ val blue = Color(0xFF2A2F8F)
 
 
 /*
- * Set 3
+ * #Hue000
  *
  */
 val indigo = Color(0xFF452344)
 val reddisher = Color(0xFFE96B54)
 val amberish = Color(0xFFFEC253)
 val warmishGreen = Color(0xFF47B39C)
+
+/*
+ * #Hue001
+ */
+val skybluishDark = Color(0xFF1661BF)
+val purplish = Color(0xFF56158B)
+val pinkish = Color(0xFFC7206E)
+val amberish1 = Color(0xFFECA309)
+
+/*
+ * #Hue002
+ */
+val blacker = Color(0xFF151B20)
+val raddish = Color(0xFFEE6B52)
+val amberish2 = Color(0xFFFEA44A)
+val yellow = Color(0xFFEFCE5B)
+
+/*
+ * #Hue003
+ */
+val indigo1 = Color(0xFF472C62)
+val pinkysh = Color(0xFFA2334E)
+val reddishDarker = Color(0xFFFF7F57)
+val skyLightBlue = Color(0xFF5EDAF5)
+
+/*
+ * #Hue004
+ */
+val indigo2 = Color(0xFF654D67)
+val darkPinkysh = Color(0xFF9D5875)
+val lightReddish = Color(0xFFE5ABB2)
+val cream = Color(0xFFF6EDE2)
+
