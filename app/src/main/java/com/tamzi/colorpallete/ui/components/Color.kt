@@ -67,11 +67,12 @@ val blacker = Color(0xFF151B20)
 val raddish = Color(0xFFEE6B52)
 val amberish2 = Color(0xFFFEA44A)
 val yellow = Color(0xFFEFCE5B)
+val yellowThin = Color(0xFFEFCE5B)
 
 /*
  * #Hue003
  */
-val indigo1 = Color(0xFF472C62)
+val indigo1 = Color(0xFF472C61)
 val pinkysh = Color(0xFFA2334E)
 val reddishDarker = Color(0xFFFF7F57)
 val skyLightBlue = Color(0xFF5EDAF5)
