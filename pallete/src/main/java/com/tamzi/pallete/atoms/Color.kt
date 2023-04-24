@@ -4,7 +4,7 @@
  * You may use this in you compose android projectsThey are arraged in sets with already defined color codes.
  * taken from uiehues.com: https://www.instagram.com/uihues/
  */
-package com.tamzi.colorpallete.ui.theme
+package com.tamzi.pallete.atoms
 
 import androidx.compose.ui.graphics.Color
 
