@@ -14,13 +14,13 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
-import com.tamzi.pallete.atoms.Type
-import com.tamzi.pallete.atoms.amber
-import com.tamzi.pallete.atoms.black
-import com.tamzi.pallete.atoms.blue
-import com.tamzi.pallete.atoms.indigo
-import com.tamzi.pallete.atoms.warmishGreen
-import com.tamzi.pallete.atoms.white
+import com.tamzi.pallete.atoms.type.Type
+import com.tamzi.pallete.atoms.color.amber
+import com.tamzi.pallete.atoms.color.black
+import com.tamzi.pallete.atoms.color.blue
+import com.tamzi.pallete.atoms.color.indigo
+import com.tamzi.pallete.atoms.color.warmishGreen
+import com.tamzi.pallete.atoms.color.white
 
 val DarkColorPalette = darkColorScheme(
     primary = amber,
