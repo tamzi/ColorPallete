@@ -13,7 +13,7 @@
             android:name=".ColorPalleteDemoActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.ColorPalleteTheme">
+            android:theme="@style/Theme.ColorPallete">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

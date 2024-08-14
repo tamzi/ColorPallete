@@ -20,13 +20,7 @@ fun ColorPalleteDemo() {
                 .background(color = white)
                 .padding(horizontal = 13.dp, vertical = 5.dp)
         ) {
-           /* BreathingSpace26()
-            CPageTitle("Chai Demo")
-            SeparatorSpace()
-            CSubtitleRed("A catalog of the chai design system elements")
-            SeparatorSpace()
-            CParagraph("Check the code that is with each view")
-            BreathingSpace13()*/
+
         }
     }
 }

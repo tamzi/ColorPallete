@@ -193,8 +193,8 @@ val amberish1 = Color(0xFFECA309)
 /*
  * #Hue002
  */
-val blacker = Color(0xFF151B20)
-val raddish = Color(0xFFEE6B52)
+val ThermalBlack = Color(0xFF151B20)
+val thermalRed = Color(0xFFEE6B52)
 val amberish2 = Color(0xFFFEA44A)
 val yellow = Color(0xFFEFCE5B)
 val yellowThin = Color(0xFFEFCE5B)
